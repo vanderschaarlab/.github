@@ -4,8 +4,8 @@
 Paper | Code | Journal/Conference
 --- | --- | ---
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
-[Temporal Quilting for Survival Analysis](http://proceedings.mlr.press/v89/lee19a.html)  | [alg/survivalquilts](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/survivalquilts) | AISTATS 2019
-[AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning](https://icml.cc/Conferences/2018/Schedule?showEvent=2050) | [alg/autoprognosis](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/autoprognosis)  | ICML 2018
+[Temporal Quilting for Survival Analysis](http://proceedings.mlr.press/v89/lee19a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/survivalquilts) | AISTATS 2019
+[AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning](https://icml.cc/Conferences/2018/Schedule?showEvent=2050) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/autoprognosis)  | ICML 2018
 
 ### Data-centric AI & reliable ML
 Paper | Code | Journal/Conference
@@ -29,7 +29,7 @@ Paper | Code | Journal/Conference
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
 [Learning outside the Black-Box: The pursuit of interpretable models](https://arxiv.org/abs/2011.08596)  | [Code](alg/Symbolic-Pursuit) | NeurIPS 2020
 [Demystifying Black-box Models with Symbolic Metamodels](https://papers.nips.cc/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling) | NeurIPS 2019
-[INVASE: Instance-wise Variable Selection using Neural Networks](https://openreview.net/forum?id=BJg_roAcK7) | [alg/invase](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/invase) | ICLR 2019
+[INVASE: Instance-wise Variable Selection using Neural Networks](https://openreview.net/forum?id=BJg_roAcK7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/invase) | ICLR 2019
 
 
 ### Privacy-preserving ML & Synthetic data
@@ -39,8 +39,8 @@ Paper | Code | Journal/Conference
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
 [Anonymization Through Data Synthesis Using Generative Adversarial Networks (ADS-GAN)](https://ieeexplore.ieee.org/document/9034117)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/adsgan) | IEEE
-[Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [alg/timegan](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
-[PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) | [alg/pategan](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan) | ICLR 2019 
+[Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
+[PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan) | ICLR 2019 
 
 ### Reinforcement Learning
 
@@ -57,7 +57,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-[DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16160/15945)  | [alg/deephit](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/deephit) | AAAI 2018
+[DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16160/15945)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/deephit) | AAAI 2018
 
 ### Time Series analysis
 
@@ -67,7 +67,7 @@ Paper | Code | Journal/Conference
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
 [Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders](http://proceedings.mlr.press/v119/bica20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/time_series_deconfounder) | ICML 2020
-[Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [alg/timegan](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
+[Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
 [Dynamic-DeepHit: A Deep Learning Approach for Dynamic Survival Analysis with Competing Risks based on Longitudinal Data](https://ieeexplore.ieee.org/document/8681104)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dynamic_deephit) | IEEE
 
 ### Treatment Effects
