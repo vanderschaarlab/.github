@@ -6,7 +6,24 @@ Paper | Code | Journal/Conference
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
 [Temporal Quilting for Survival Analysis](http://proceedings.mlr.press/v89/lee19a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/survivalquilts) | AISTATS 2019
 [AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning](https://icml.cc/Conferences/2018/Schedule?showEvent=2050) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/autoprognosis)  | ICML 2018
-[Stepwise Model Selection for Sequence Prediction via Deep Kernel Learning](https://arxiv.org/abs/2001.03898) | [alg/smsdkl](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/smsdkl) | AISTATS 2020
+[Stepwise Model Selection for Sequence Prediction via Deep Kernel Learning](https://arxiv.org/abs/2001.03898) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/smsdkl) | AISTATS 2020
+
+### Bayesian learning
+Paper | Code | Journal/Conference
+--- | --- | ---
+[Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
+[When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/compartmental_gp) | NeurIPS 2020
+[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  | ICML 2020
+[Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
+
+
+### Causal Inference
+Paper | Code | Journal/Conference
+--- | --- | ---
+[MIRACLE: Causally-Aware Imputation via Learning Missing Data Mechanisms](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27670)  | [Code](https://github.com/vanderschaarlab/MIRACLE) | NeurIPS 2021
+[DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
+[CASTLE: Regularization via Auxiliary Causal Graph Discovery](https://arxiv.org/abs/2009.13180)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/castle) | NeurIPS 2020
+
 
 ### Data-centric AI & reliable ML
 Paper | Code | Journal/Conference
@@ -33,6 +50,14 @@ Paper | Code | Journal/Conference
 [D-CODE: Discovering Closed-form ODEs from Observed Trajectories](https://openreview.net/forum?id=wENMvIsxNN) | [Code](https://github.com/vanderschaarlab/D-CODE-ICLR-2022) |  ICLR 2022
 [Integrating Expert ODEs into Neural ODEs: Pharmacology and Disease Progression](https://papers.neurips.cc/paper/2021/hash/5ea1649a31336092c05438df996a3e59-Abstract.html)  | [Code](https://github.com/vanderschaarlab/Hybrid-ODE-NeurIPS-2021) | NeurIPS 2021
 [Policy Analysis using Synthetic Controls in Continuous-Time](http://proceedings.mlr.press/v139/bellot21a/bellot21a.pdf) | [Code](https://github.com/vanderschaarlab/Synthetic-Controls-in-Continuous-Time/)  | ICML 2021
+
+### Feature selection
+Paper | Code | Journal/Conference
+--- | --- | ---
+[KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks](https://openreview.net/forum?id=ByeZ5jC5YQ)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/knockoffgan) | ICLR 2019
+[ASAC: Active Sensing using Actor-Critic Models](https://arxiv.org/abs/1906.06796)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/asac) | MLHC 2019
+[Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks](https://openreview.net/forum?id=r1SnX5xCb)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/DeepSensing%20(MRNN)) | ICLR 2018
+
 
 ### Interpretability and Explainability
 
@@ -63,7 +88,7 @@ Paper | Code | Journal/Conference
 [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
 [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan) | ICLR 2019 
 [Anonymization Through Data Synthesis Using Generative Adversarial Networks (ADS-GAN)](https://ieeexplore.ieee.org/document/9034117)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/adsgan) | IEEE 2018
-[Differentially Private Bagging: Improved Utility and Cheaper Privacy than Subsample-and-Aggregate](https://papers.nips.cc/paper/2019/hash/5dec707028b05bcbd3a1db5640f842c5-Abstract.html) | [alg/dpbag](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dpbag) | NeurIPS 2019 
+[Differentially Private Bagging: Improved Utility and Cheaper Privacy than Subsample-and-Aggregate](https://papers.nips.cc/paper/2019/hash/5dec707028b05bcbd3a1db5640f842c5-Abstract.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dpbag) | NeurIPS 2019 
 
 ### Reinforcement Learning
 
@@ -76,9 +101,10 @@ Paper | Code | Journal/Conference
 [The Medkit-Learn(ing) Environment: Medical Decision Modelling through Simulation](https://arxiv.org/abs/2106.04240) | [Code](https://github.com/vanderschaarlab/medkit-learn) | NeurIPS 2021
 [Closing the loop in medical decision support by understanding clinical decision-making: A case study on organ transplantation](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=26815)  | [Code](https://github.com/vanderschaarlab/iTransplant) | NeurIPS 2021
 [Inverse Decision Modeling: Learning Interpretable Representations of Behavior](http://proceedings.mlr.press/v139/jarrett21a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/ibrc) | ICML 2021
-[Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk)  | [alg/interpole](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/interpole) | ICLR 2021
-[Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [alg/scalable-birl](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
-[ASAC: Active Sensing using Actor-Critic Models](https://arxiv.org/abs/1906.06796)  | [alg/asac](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/asac) | MLHC 2019
+[Explaining by Imitating: Understanding Decisions by Interpretable Policy Learning](https://openreview.net/forum?id=unI5ucw_Jk)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/interpole) | ICLR 2021
+[Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
+[Strictly Batch Imitation Learning by Energy-based Distribution Matching](https://arxiv.org/abs/2006.14154)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/edm) | NeurIPS 2020
+[ASAC: Active Sensing using Actor-Critic Models](https://arxiv.org/abs/1906.06796)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/asac) | MLHC 2019
 
 
 ### Survival Analysis
@@ -96,8 +122,10 @@ Paper | Code | Journal/Conference
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
 [Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders](http://proceedings.mlr.press/v119/bica20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/time_series_deconfounder) | ICML 2020
+[Temporal Phenotyping using Deep Predicting Clustering of Disease Progression](http://proceedings.mlr.press/v119/lee20h.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/ac_tpc) | ICML 2020
 [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
 [Dynamic-DeepHit: A Deep Learning Approach for Dynamic Survival Analysis with Competing Risks based on Longitudinal Data](https://ieeexplore.ieee.org/document/8681104)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dynamic_deephit) | IEEE
+
 
 ### Treatment Effects
 
@@ -132,13 +160,8 @@ Paper | Code | Journal/Conference
 
 ### Misc
 
-Paper [[Link]](#) | Journal/Conference | Code
+Paper | Code | Journal/Conference
 --- | --- | ---
-CASTLE: Regularization via Auxiliary Causal Graph Discovery [[Link]](https://arxiv.org/abs/2009.13180) | NeurIPS 2020 | [alg/castle](alg/castle)
-Strictly Batch Imitation Learning by Energy-based Distribution Matching [[Link]](https://arxiv.org/abs/2006.14154) | NeurIPS 2020 | [alg/edm](alg/edm)
-When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes [[Link]](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf) | NeurIPS 2020 | [alg/compartmental_gp](alg/compartmental_gp)
-Temporal Phenotyping using Deep Predicting Clustering of Disease Progression [[Link]](http://proceedings.mlr.press/v119/lee20h.html) | ICML 2020 | [alg/ac_tpc](alg/ac_tpc)
-Learning Dynamic and Personalized Comorbidity Networks from Event Data using Deep Diffusion Processes [[Link]](https://arxiv.org/abs/2001.02585) | AISTATS 2020 | [alg/dynamic_disease_network_ddp](alg/dynamic_disease_network_ddp)
-Conditional Independence Testing using Generative Adversarial Networks [[Link]](https://arxiv.org/abs/1907.04068) | NeurIPS 2019 | [alg/gcit](alg/gcit)
-Attentive State-Space Modeling of Disease Progression [[Link]](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html) | NeurIPS 2019 | [alg/attentivess](alg/attentivess)
-KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks [[Link]](https://openreview.net/forum?id=ByeZ5jC5YQ) | ICLR 2019 | [alg/knockoffgan](alg/knockoffgan)
+[Learning Dynamic and Personalized Comorbidity Networks from Event Data using Deep Diffusion Processes](https://arxiv.org/abs/2001.02585)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dynamic_disease_network_ddp) | AISTATS 2020
+[Conditional Independence Testing using Generative Adversarial Networks](https://arxiv.org/abs/1907.04068)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/gcit) | NeurIPS 2019
+[Attentive State-Space Modeling of Disease Progression](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/attentivess) | NeurIPS 2019
