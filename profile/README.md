@@ -38,9 +38,9 @@ Paper | Code | Journal/Conference
 --- | --- | ---
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
-[Anonymization Through Data Synthesis Using Generative Adversarial Networks (ADS-GAN)](https://ieeexplore.ieee.org/document/9034117)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/adsgan) | IEEE
 [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
 [PATE-GAN: Generating Synthetic Data with Differential Privacy Guarantees](https://openreview.net/forum?id=S1zk9iRqF7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/pategan) | ICLR 2019 
+[Anonymization Through Data Synthesis Using Generative Adversarial Networks (ADS-GAN)](https://ieeexplore.ieee.org/document/9034117)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/adsgan) | IEEE 2018
 
 ### Reinforcement Learning
 
