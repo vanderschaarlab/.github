@@ -58,6 +58,7 @@ Paper | Code | Journal/Conference
 Paper | Code | Journal/Conference
 --- | --- | ---
 [DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16160/15945)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/deephit) | AAAI 2018
+[Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks](https://proceedings.neurips.cc/paper/2017/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dgp_survival) | NIPS 2017
 
 ### Time Series analysis
 
@@ -81,14 +82,16 @@ Paper | Code | Journal/Conference
 [Nonparametric Estimation of Heterogeneous Treatment Effects: From Theory to Learning Algorithms](https://arxiv.org/abs/2101.10943)  | [Code](https://github.com/vanderschaarlab/CATENets) | AISTATS 2021
 [Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders](http://proceedings.mlr.press/v119/bica20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/time_series_deconfounder) | ICML 2020
 [GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets](https://openreview.net/forum?id=ByKWUeWA-)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/ganite) | ICLR 2018
+[Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
 
 ### Uncertainty estimation
 
 Paper | Code | Journal/Conference
 --- | --- | ---
 [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) | [Code](https://github.com/vanderschaarlab/conformal-rnn/tree/master) | NeurIPS 2021
-[Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b.html) 0 | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/rnn-blockwise-jackknife) | ICML 2020
+[Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/rnn-blockwise-jackknife) | ICML 2020
 [Discriminative Jackknife: Quantifying Uncertainty in Deep Learning via Higher-Order Influence Functions](http://proceedings.mlr.press/v119/alaa20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/discriminative-jackknife) | ICML 2020
+[RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](http://proceedings.mlr.press/v80/yoon18b.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/RadialGAN) | ICML 2018 
 
 
 ### Misc
@@ -126,7 +129,4 @@ Differentially Private Bagging: Improved Utility and Cheaper Privacy than Subsam
 ASAC: Active Sensing using Actor-Critic Models [[Link]](https://arxiv.org/abs/1906.06796) | MLHC 2019 | [alg/asac](alg/asac)
 KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks [[Link]](https://openreview.net/forum?id=ByeZ5jC5YQ) | ICLR 2019 | [alg/knockoffgan](alg/knockoffgan)
 Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks [[Link]](https://openreview.net/forum?id=r1SnX5xCb) | ICLR 2018 | [alg/DeepSensing (MRNN)](alg/DeepSensing%20(MRNN))
-RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks [[Link]](http://proceedings.mlr.press/v80/yoon18b.html) | ICML 2018 | [alg/RadialGAN](alg/RadialGAN)
 Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design [[Link]](http://proceedings.mlr.press/v80/alaa18a.html) | ICML 2018 | [alg/causal_multitask_gaussian_processes_ite](alg/causal_multitask_gaussian_processes_ite)
-Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks [[Link]](https://proceedings.neurips.cc/paper/2017/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html) | NIPS 2017 | [alg/dgp_survival](alg/dgp_survival)
-Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes [[Link]](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html) | NIPS 2017 | [alg/causal_multitask_gaussian_processes_ite](alg/causal_multitask_gaussian_processes_ite)
