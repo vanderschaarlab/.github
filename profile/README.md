@@ -8,11 +8,7 @@ Paper | Code | Journal/Conference
 ### Data-centric AI & reliable ML
 Paper | Code | Journal/Conference
 --- | --- | ---
-
-### Causal Inference
-
-Paper | Code | Journal/Conference
---- | --- | ---
+[Data-SUITE: Data-centric identification of in-distribution incongruous examples](https://proceedings.mlr.press/v162/seedat22a.html)  | [Code](https://github.com/vanderschaarlab/Data-SUITE) | ICML 2022
 
 ### Data imputation
 
@@ -59,6 +55,7 @@ Paper | Code | Journal/Conference
 --- | --- | ---
 [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) | [Code](https://github.com/vanderschaarlab/conformal-rnn/tree/master) | NeurIPS 2021
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
+[Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
 
 ### Treatment Effects
 
@@ -77,7 +74,7 @@ Paper | Code | Journal/Conference
 [Conformal Time-series Forecasting](https://proceedings.neurips.cc/paper/2021/hash/312f1ba2a72318edaaa995a67835fad5-Abstract.html) | [Code](https://github.com/vanderschaarlab/conformal-rnn/tree/master) | NeurIPS 2021
 
 
-
+### Misc
 
 Paper [[Link]](#) | Journal/Conference | Code
 --- | --- | ---
