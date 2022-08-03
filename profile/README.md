@@ -8,14 +8,6 @@ Paper | Code | Journal/Conference
 [AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning](https://icml.cc/Conferences/2018/Schedule?showEvent=2050) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/autoprognosis)  | ICML 2018
 [Stepwise Model Selection for Sequence Prediction via Deep Kernel Learning](https://arxiv.org/abs/2001.03898) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/smsdkl) | AISTATS 2020
 
-### Bayesian learning
-Paper | Code | Journal/Conference
---- | --- | ---
-[Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
-[When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/compartmental_gp) | NeurIPS 2020
-[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  | ICML 2020
-[Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
-
 
 ### Causal Inference
 Paper | Code | Journal/Conference
@@ -162,6 +154,10 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
+[When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/compartmental_gp) | NeurIPS 2020
+[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  | ICML 2020
 [Learning Dynamic and Personalized Comorbidity Networks from Event Data using Deep Diffusion Processes](https://arxiv.org/abs/2001.02585)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dynamic_disease_network_ddp) | AISTATS 2020
 [Conditional Independence Testing using Generative Adversarial Networks](https://arxiv.org/abs/1907.04068)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/gcit) | NeurIPS 2019
 [Attentive State-Space Modeling of Disease Progression](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/attentivess) | NeurIPS 2019
+[Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
