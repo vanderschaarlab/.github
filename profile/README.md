@@ -19,6 +19,7 @@ Paper | Code | Journal/Conference
 --- | --- | ---
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
 [MIRACLE: Causally-Aware Imputation via Learning Missing Data Mechanisms](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27670)  | [Code](https://github.com/vanderschaarlab/MIRACLE) | NeurIPS 2021
+[VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://papers.nips.cc/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/vime) | NeurIPS 2020
 [ASAC: Active Sensing using Actor-Critic Models](https://arxiv.org/abs/1906.06796)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/asac) | MLHC 2019
 [GAIN: Missing Data Imputation using Generative Adversarial Nets](http://proceedings.mlr.press/v80/yoon18a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/gain) | ICML 2018
 [Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks](https://openreview.net/forum?id=r1SnX5xCb)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/DeepSensing%20(MRNN)) | ICLR 2018
@@ -107,13 +108,17 @@ Paper | Code | Journal/Conference
 [Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation](https://openreview.net/pdf?id=FQLzQqGEAH)  | [Code](https://github.com/vanderschaarlab/CATENets/) | NeurIPS 2021
 [On Inductive Biases for Heterogeneous Treatment Effect Estimation](https://arxiv.org/pdf/2106.03765.pdf)  | [Code](https://github.com/vanderschaarlab/CATENets/) | NeurIPS 2021
 [Nonparametric Estimation of Heterogeneous Treatment Effects: From Theory to Learning Algorithms](https://arxiv.org/abs/2101.10943)  | [Code](https://github.com/vanderschaarlab/CATENets) | AISTATS 2021
+[Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks](https://arxiv.org/abs/2002.12326) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scigan) | NeurIPS 2020 
 [Time Series Deconfounder: Estimating Treatment Effects over Time in the Presence of Hidden Confounders](http://proceedings.mlr.press/v119/bica20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/time_series_deconfounder) | ICML 2020
 [GANITE: Estimation of Individualized Treatment Effects using Generative Adversarial Nets](https://openreview.net/forum?id=ByKWUeWA-)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/ganite) | ICLR 2018
 [Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
 [Robust Recursive Partitioning for Heterogeneous Treatment Effects with Uncertainty Quantification](https://arxiv.org/abs/2006.07917) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/r2p-hte)  | NeurIPS 2020
 [Learning Overlapping Representations for the Estimation of Individualized Treatment Effects](https://arxiv.org/abs/2001.04754)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dklite) | AISTATS 2020
 [Estimating Counterfactual Treatment Outcomes over Time through Adversarially Balanced Representations](https://openreview.net/forum?id=BJg866NFvB)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/counterfactual_recurrent_network) | ICLR 2020
-
+[Gradient Regularized V-Learning for Dynamic Treatment Regimes](https://vanderschaar-lab.com/papers/NeurIPS2020_GRV.pdf)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/grv) | NeurIPS 2020
+[Contextual Constrained Learning for Dose-Finding Clinical Trials](https://arxiv.org/abs/2001.02463) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/c3t_budgets) | AISTATS 2020 
+[Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design ](http://proceedings.mlr.press/v80/alaa18a.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite)  | ICML 2018
+ 
 ### Uncertainty estimation
 
 Paper | Code | Journal/Conference
@@ -129,16 +134,11 @@ Paper | Code | Journal/Conference
 
 Paper [[Link]](#) | Journal/Conference | Code
 --- | --- | ---
-VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain [[Link]](https://papers.nips.cc/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html) | NeurIPS 2020 | [alg/vime](alg/vime)
-Estimating the Effects of Continuous-valued Interventions using Generative Adversarial Networks [[Link]](https://arxiv.org/abs/2002.12326) | NeurIPS 2020 | [alg/scigan](alg/scigan)
 CASTLE: Regularization via Auxiliary Causal Graph Discovery [[Link]](https://arxiv.org/abs/2009.13180) | NeurIPS 2020 | [alg/castle](alg/castle)
-Gradient Regularized V-Learning for Dynamic Treatment Regimes [[Link]](https://vanderschaar-lab.com/papers/NeurIPS2020_GRV.pdf) | NeurIPS 2020 | [alg/grv](alg/grv)
 Strictly Batch Imitation Learning by Energy-based Distribution Matching [[Link]](https://arxiv.org/abs/2006.14154) | NeurIPS 2020 | [alg/edm](alg/edm)
 When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes [[Link]](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf) | NeurIPS 2020 | [alg/compartmental_gp](alg/compartmental_gp)
 Temporal Phenotyping using Deep Predicting Clustering of Disease Progression [[Link]](http://proceedings.mlr.press/v119/lee20h.html) | ICML 2020 | [alg/ac_tpc](alg/ac_tpc)
 Learning Dynamic and Personalized Comorbidity Networks from Event Data using Deep Diffusion Processes [[Link]](https://arxiv.org/abs/2001.02585) | AISTATS 2020 | [alg/dynamic_disease_network_ddp](alg/dynamic_disease_network_ddp)
-Contextual Constrained Learning for Dose-Finding Clinical Trials [[Link]](https://arxiv.org/abs/2001.02463) | AISTATS 2020 | [alg/c3t_budgets](alg/c3t_budgets)
 Conditional Independence Testing using Generative Adversarial Networks [[Link]](https://arxiv.org/abs/1907.04068) | NeurIPS 2019 | [alg/gcit](alg/gcit)
 Attentive State-Space Modeling of Disease Progression [[Link]](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html) | NeurIPS 2019 | [alg/attentivess](alg/attentivess)
 KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks [[Link]](https://openreview.net/forum?id=ByeZ5jC5YQ) | ICLR 2019 | [alg/knockoffgan](alg/knockoffgan)
-Limits of Estimating Heterogeneous Treatment Effects: Guidelines for Practical Algorithm Design [[Link]](http://proceedings.mlr.press/v80/alaa18a.html) | ICML 2018 | [alg/causal_multitask_gaussian_processes_ite](alg/causal_multitask_gaussian_processes_ite)
