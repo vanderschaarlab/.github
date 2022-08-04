@@ -1,6 +1,6 @@
 # Research topics
 
-### Automated ML
+### AutoML
 Paper | Code | Journal/Conference
 --- | --- | ---
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
@@ -75,6 +75,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[How Faithful is your Synthetic Data? Sample-level Metrics for Evaluating and Auditing Generative Models](https://arxiv.org/abs/2102.08921)  | [Code](https://github.com/vanderschaarlab/evaluating-generative-models) | ICML 2022
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
 [Time-series Generative Adversarial Networks](https://papers.nips.cc/paper/2019/hash/c9efe5f26cd17ba6216bbe2a7d26d490-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/timegan) | NeurIPS 2019
