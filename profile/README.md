@@ -4,6 +4,7 @@
 Paper | Code | Journal/Conference
 --- | --- | ---
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
+[Clairvoyance: A Pipeline Toolkit for Medical Time Series](https://openreview.net/forum?id=xnC8YwKUE3k) | [Code](https://github.com/vanderschaarlab/clairvoyance) | ICLR 2021
 [Temporal Quilting for Survival Analysis](http://proceedings.mlr.press/v89/lee19a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/survivalquilts) | AISTATS 2019
 [AutoPrognosis: Automated Clinical Prognostic Modeling via Bayesian Optimization with Structured Kernel Learning](https://icml.cc/Conferences/2018/Schedule?showEvent=2050) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/autoprognosis)  | ICML 2018
 [Stepwise Model Selection for Sequence Prediction via Deep Kernel Learning](https://arxiv.org/abs/2001.03898) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/smsdkl) | AISTATS 2020
@@ -37,6 +38,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Continuous-Time Modeling of Counterfactual Outcomes Using Neural Controlled Differential Equations](https://proceedings.mlr.press/v162/seedat22b)  | [Code](https://github.com/vanderschaarlab/TE-CDE) | ICML 2022
 [Neural Laplace: Learning diverse classes of differential equations in the Laplace domain](https://arxiv.org/abs/2206.04843)  | [Code](https://github.com/vanderschaarlab/NeuralLaplace) | ICML 2022
 [Neural graphical modelling in continuous-time: consistency guarantees and algorithms](https://arxiv.org/abs/2105.02522)  | [Code](https://github.com/vanderschaarlab/Graphical-modelling-continuous-time) | ICLR 2022
 [D-CODE: Discovering Closed-form ODEs from Observed Trajectories](https://openreview.net/forum?id=wENMvIsxNN) | [Code](https://github.com/vanderschaarlab/D-CODE-ICLR-2022) |  ICLR 2022
