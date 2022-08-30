@@ -62,7 +62,7 @@ Paper | Code | Journal/Conference
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
 [Learning outside the Black-Box: The pursuit of interpretable models](https://arxiv.org/abs/2011.08596)  | [Code](https://github.com/vanderschaarlab/Symbolic-Pursuit) | NeurIPS 2020
 [Demystifying Black-box Models with Symbolic Metamodels](https://papers.nips.cc/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling) | NeurIPS 2019
-[INVASE: Instance-wise Variable Selection using Neural Networks](https://openreview.net/forum?id=BJg_roAcK7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/invase) | ICLR 2019
+[INVASE: Instance-wise Variable Selection using Neural Networks](https://openreview.net/forum?id=BJg_roAcK7) | [Code](https://github.com/vanderschaarlab/INVASE) | ICLR 2019
 
 ### Organ Transplantation Allocation
 Paper | Code | Journal/Conference
