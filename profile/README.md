@@ -60,7 +60,7 @@ Paper | Code | Journal/Conference
 [Label-Free Explainability for Unsupervised Models](https://arxiv.org/abs/2203.01928)  | [Code](https://github.com/vanderschaarlab/Label-Free-XAI) | ICML 2022
 [Explaining Latent Representations with a Corpus of Examples](https://arxiv.org/abs/2110.15355)  | [Code](https://github.com/vanderschaarlab/Simplex) | NeurIPS 2021
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
-[Learning outside the Black-Box: The pursuit of interpretable models](https://arxiv.org/abs/2011.08596)  | [Code](alg/Symbolic-Pursuit) | NeurIPS 2020
+[Learning outside the Black-Box: The pursuit of interpretable models](https://arxiv.org/abs/2011.08596)  | [Code](https://github.com/vanderschaarlab/Symbolic-Pursuit) | NeurIPS 2020
 [Demystifying Black-box Models with Symbolic Metamodels](https://papers.nips.cc/paper/2019/hash/567b8f5f423af15818a068235807edc0-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/symbolic_metamodeling) | NeurIPS 2019
 [INVASE: Instance-wise Variable Selection using Neural Networks](https://openreview.net/forum?id=BJg_roAcK7) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/invase) | ICLR 2019
 
