@@ -150,7 +150,7 @@ Paper | Code | Journal/Conference
 [Frequentist Uncertainty in Recurrent Neural Networks via Blockwise Influence Functions](http://proceedings.mlr.press/v119/alaa20b.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/rnn-blockwise-jackknife) | ICML 2020
 [Discriminative Jackknife: Quantifying Uncertainty in Deep Learning via Higher-Order Influence Functions](http://proceedings.mlr.press/v119/alaa20a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/discriminative-jackknife) | ICML 2020
 [RadialGAN: Leveraging multiple datasets to improve target-specific predictive models using Generative Adversarial Networks](http://proceedings.mlr.press/v80/yoon18b.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/RadialGAN) | ICML 2018 
-[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  | ICML 2020
+[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  [Code](https://github.com/vanderschaarlab/transductive-dropout) | | ICML 2020
 
 
 ### Misc
@@ -159,7 +159,7 @@ Paper | Code | Journal/Conference
 --- | --- | ---
 [Scalable Bayesian Inverse Reinforcement Learning](https://openreview.net/pdf?id=4qR3coiNaIv)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/scalable-birl) | ICLR 2021
 [When and How to Lift the Lockdown? Global COVID-19 Scenario Analysis and Policy Assessment using Compartmental Gaussian Processes](https://vanderschaar-lab.com/papers/NeurIPS2020_CGP.pdf)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/compartmental_gp) | NeurIPS 2020
-[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  |  | ICML 2020
+[Unlabelled Data Improves Bayesian Uncertainty Calibration under Covariate Shift](http://proceedings.mlr.press/v119/chan20a.html)  | [Code](https://github.com/vanderschaarlab/transductive-dropout) | ICML 2020
 [Learning Dynamic and Personalized Comorbidity Networks from Event Data using Deep Diffusion Processes](https://arxiv.org/abs/2001.02585)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dynamic_disease_network_ddp) | AISTATS 2020
 [Conditional Independence Testing using Generative Adversarial Networks](https://arxiv.org/abs/1907.04068)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/gcit) | NeurIPS 2019
 [Attentive State-Space Modeling of Disease Progression](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/attentivess) | NeurIPS 2019
