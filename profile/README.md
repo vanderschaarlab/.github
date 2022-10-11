@@ -57,6 +57,8 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://arxiv.org/abs/2209.11222)  | [Code](https://github.com/vanderschaarlab/CARs) | NeurIPS 2022
+[Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability](https://arxiv.org/abs/2206.08363) | [Code](https://github.com/vanderschaarlab/ITErpretability) | NeurIPS 2022
 [Label-Free Explainability for Unsupervised Models](https://arxiv.org/abs/2203.01928)  | [Code](https://github.com/vanderschaarlab/Label-Free-XAI) | ICML 2022
 [Explaining Latent Representations with a Corpus of Examples](https://arxiv.org/abs/2110.15355)  | [Code](https://github.com/vanderschaarlab/Simplex) | NeurIPS 2021
 [Explaining Time Series Predictions with Dynamic Masks](http://proceedings.mlr.press/v139/crabbe21a.html)  | [Code](https://github.com/vanderschaarlab/Dynamask/) | ICML 2021
