@@ -3,6 +3,7 @@
 ### AutoML
 Paper | Code | Journal/Conference
 --- | --- | ---
+[AutoPrognosis 2.0: Democratizing Diagnostic and Prognostic Modeling in Healthcare with Automated Machine Learning](https://arxiv.org/abs/2210.12090)| [Code](https://github.com/vanderschaarlab/autoprognosis) | _pending_, 2022
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
 [Clairvoyance: A Pipeline Toolkit for Medical Time Series](https://openreview.net/forum?id=xnC8YwKUE3k) | [Code](https://github.com/vanderschaarlab/clairvoyance) | ICLR 2021
 [Temporal Quilting for Survival Analysis](http://proceedings.mlr.press/v89/lee19a.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/survivalquilts) | AISTATS 2019
