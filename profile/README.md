@@ -22,6 +22,7 @@ Paper | Code | Journal/Conference
 ### Data-centric AI & reliable ML
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Data-IQ: Characterizing subgroups with heterogeneous outcomes in tabular data](https://arxiv.org/abs/2210.13043) | [Code](https://github.com/vanderschaarlab/Data-IQ) | NeurIPS 2022
 [Data-SUITE: Data-centric identification of in-distribution incongruous examples](https://proceedings.mlr.press/v162/seedat22a.html)  | [Code](https://github.com/vanderschaarlab/Data-SUITE) | ICML 2022
 
 ### Data imputation
