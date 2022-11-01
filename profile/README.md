@@ -50,6 +50,7 @@ Paper | Code | Journal/Conference
 ### Feature selection
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Composite Feature Selection Using Deep Ensembles ](https://openreview.net/forum?id=-9PV7GKwYpM) | [Code](https://github.com/vanderschaarlab/Composite-Feature-Selection) | NeurIPS 2022
 [KnockoffGAN: Generating Knockoffs for Feature Selection using Generative Adversarial Networks](https://openreview.net/forum?id=ByeZ5jC5YQ)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/knockoffgan) | ICLR 2019
 [ASAC: Active Sensing using Actor-Critic Models](https://arxiv.org/abs/1906.06796)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/asac) | MLHC 2019
 [Deep Sensing: Active Sensing using Multi-directional Recurrent Neural Networks](https://openreview.net/forum?id=r1SnX5xCb)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/DeepSensing%20(MRNN)) | ICLR 2018
