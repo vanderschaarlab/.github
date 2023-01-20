@@ -82,6 +82,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Synthcity: facilitating innovative use cases of synthetic data in different data modalities](https://arxiv.org/abs/2301.07573) | [Code](https://github.com/vanderschaarlab/synthcity) | ---
 [How Faithful is your Synthetic Data? Sample-level Metrics for Evaluating and Auditing Generative Models](https://arxiv.org/abs/2102.08921)  | [Code](https://github.com/vanderschaarlab/evaluating-generative-models) | ICML 2022
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
 [Generative Time-series Modeling with Fourier Flows](https://openreview.net/forum?id=PpshD0AXfA)  | [Code](https://github.com/vanderschaarlab/Fourier-flows/) | ICLR 2021
