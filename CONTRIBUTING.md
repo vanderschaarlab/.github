@@ -42,7 +42,7 @@ Always make sure to create the necessary tests and keep test coverage as high or
 
 ### Documentation and Codestyle
 
-To ensure code quality and make sure other people can understand your changes, you have to document your code. For documentation and general code cleanliness, we ask that you [follow the appropriate styleguide](https://github.com/vanderschaarlab/.github/blob/master/STYLEGUIDE.md) for the language you're working in.
+To ensure code quality and make sure other people can understand your changes, you have to document your code. For documentation and general code cleanliness, we ask that you [follow the appropriate styleguide](https://github.com/vanderschaarlab/.github/blob/main/STYLEGUIDE.md) for the language you're working in.
 
 ### Keep it DRY (Don't repeat yourself)
 

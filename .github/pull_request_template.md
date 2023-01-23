@@ -10,7 +10,7 @@ List any dependencies that are required for this change.
 - List any relevant details for your test configuration.
 
 ## Checklist
-- [ ] I have followed the [Contribution Guidelines](https://github.com/vanderschaarlab/.github/blob/master/CONTRIBUTING.md) and [Code of Conduct](https://github.com/vanderschaarlab/.github/blob/master/CODE_OF_CONDUCT.md)
-- [ ] I have commented my code following the [vanderschaarlab Styleguide](https://github.com/vanderschaarlab/.github/blob/master/STYLEGUIDE.md)
+- [ ] I have followed the [Contribution Guidelines](https://github.com/vanderschaarlab/.github/blob/main/CONTRIBUTING.md) and [Code of Conduct](https://github.com/vanderschaarlab/.github/blob/main/CODE_OF_CONDUCT.md)
+- [ ] I have commented my code following the [vanderschaarlab Styleguide](https://github.com/vanderschaarlab/.github/blob/main/STYLEGUIDE.md)
 - [ ] I have labeled this PR with the relevant [Type labels](https://github.com/vanderschaarlab/.github/labels?q=Type%3A)
 - [ ] My changes are covered by tests
