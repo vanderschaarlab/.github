@@ -29,6 +29,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[To Impute or not to Impute? Missing Data in Treatment Effect Estimation](https://arxiv.org/abs/2202.02096) | [Code](https://github.com/vanderschaarlab/mcm) | AISTATS 2023
 [HyperImpute: Generalized Iterative Imputation with Automatic Model Selection](https://arxiv.org/abs/2206.07769)  | [Code](https://github.com/vanderschaarlab/hyperimpute) | ICML 2022
 [MIRACLE: Causally-Aware Imputation via Learning Missing Data Mechanisms](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27670)  | [Code](https://github.com/vanderschaarlab/MIRACLE) | NeurIPS 2021
 [VIME: Extending the Success of Self- and Semi-supervised Learning to Tabular Domain](https://papers.nips.cc/paper/2020/hash/7d97667a3e056acab9aaf653807b4a03-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/vime) | NeurIPS 2020
@@ -82,6 +83,8 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+DOMIAS: Membership Inference Attacks against Synthetic Data through Overfitting Detection | [Code](https://github.com/vanderschaarlab/DOMIAS) | AISTATS 2023
+SurvivalGAN: Generating Time-to-Event Data for Survival Analysis | [Code](https://github.com/vanderschaarlab/survivalgan) | AISTATS 2023 
 [Synthcity: facilitating innovative use cases of synthetic data in different data modalities](https://arxiv.org/abs/2301.07573) | [Code](https://github.com/vanderschaarlab/synthcity) | ---
 [How Faithful is your Synthetic Data? Sample-level Metrics for Evaluating and Auditing Generative Models](https://arxiv.org/abs/2102.08921)  | [Code](https://github.com/vanderschaarlab/evaluating-generative-models) | ICML 2022
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
@@ -112,6 +115,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+SurvivalGAN: Generating Time-to-Event Data for Survival Analysis | [Code](https://github.com/vanderschaarlab/survivalgan) | AISTATS 2023 
 [DeepHit: A Deep Learning Approach to Survival Analysis with Competing Risks](https://aaai.org/ocs/index.php/AAAI/AAAI18/paper/view/16160/15945)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/deephit) | AAAI 2018
 [Deep Multi-task Gaussian Processes for Survival Analysis with Competing Risks](https://proceedings.neurips.cc/paper/2017/hash/861dc9bd7f4e7dd3cccd534d0ae2a2e9-Abstract.html) | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/dgp_survival) | NIPS 2017
 
@@ -132,6 +136,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[To Impute or not to Impute? Missing Data in Treatment Effect Estimation](https://arxiv.org/abs/2202.02096) | [Code](https://github.com/vanderschaarlab/mcm) | AISTATS 2023
 [Estimating Multi-cause Treatment Effects via Single-cause Perturbation](https://proceedings.neurips.cc/paper/2021/hash/c793b3be8f18731f2a4c627fb3c6c63d-Abstract.html)  | [Code](https://github.com/vanderschaarlab/Single-Cause-Perturbation-NeurIPS-2021/) | NeurIPS 2021
 [SyncTwin: Treatment Effect Estimation with Longitudinal Outcomes](https://proceedings.neurips.cc/paper/2021/hash/19485224d128528da1602ca47383f078-Abstract.html)  | [Code](https://github.com/vanderschaarlab/SyncTwin-NeurIPS-2021) | NeurIPS 2021
 [Really Doing Great at Estimating CATE? A Critical Look at ML Benchmarking Practices in Treatment Effect Estimation](https://openreview.net/pdf?id=FQLzQqGEAH)  | [Code](https://github.com/vanderschaarlab/CATENets/) | NeurIPS 2021
