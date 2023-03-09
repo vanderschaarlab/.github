@@ -83,8 +83,8 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
-DOMIAS: Membership Inference Attacks against Synthetic Data through Overfitting Detection | [Code](https://github.com/vanderschaarlab/DOMIAS) | AISTATS 2023
-SurvivalGAN: Generating Time-to-Event Data for Survival Analysis | [Code](https://github.com/vanderschaarlab/survivalgan) | AISTATS 2023 
+[DOMIAS: Membership Inference Attacks against Synthetic Data through Overfitting Detection](https://arxiv.org/abs/2302.12580) | [Code](https://github.com/vanderschaarlab/DOMIAS) | AISTATS 2023
+[SurvivalGAN: Generating Time-to-Event Data for Survival Analysis](https://arxiv.org/abs/2302.12749) | [Code](https://github.com/vanderschaarlab/survivalgan) | AISTATS 2023 
 [Synthcity: facilitating innovative use cases of synthetic data in different data modalities](https://arxiv.org/abs/2301.07573) | [Code](https://github.com/vanderschaarlab/synthcity) | ---
 [How Faithful is your Synthetic Data? Sample-level Metrics for Evaluating and Auditing Generative Models](https://arxiv.org/abs/2102.08921)  | [Code](https://github.com/vanderschaarlab/evaluating-generative-models) | ICML 2022
 [DECAF: Generating Fair Synthetic Data Using Causally-Aware Generative Networks](https://neurips.cc/Conferences/2021/ScheduleMultitrack?event=27552)  | [Code](https://github.com/vanderschaarlab/DECAF) | NeurIPS 2021
