@@ -1,4 +1,19 @@
-# Research topics
+# [van der Schaar Lab](https://www.vanderschaar-lab.com/)
+
+
+
+## Software libraries
+
+Name | About | Repo | Cite
+---- | ----- | ---- | ----
+<img src="https://raw.githubusercontent.com/vanderschaarlab/temporai/main/docs/assets/TemporAI_Logo_Icon.png" height=10> TemporAI | A Machine Learning-centric time-series library for medicine supporting tasks like: time-to-event (survival) analysis, treatment effects, and prediction. | [temporai](https://github.com/vanderschaarlab/temporai) | [Citation](https://github.com/vanderschaarlab/temporai/blob/main/CITATION.cff)
+<img src="https://raw.githubusercontent.com/vanderschaarlab/synthcity/main/docs/logo.png" height=10> SynthCity | SynthCity is a powerful library for generating and evaluating synthetic data for privacy, fairness and data augmentation. | [synthcity](https://github.com/vanderschaarlab/synthcity) | [Citation](https://raw.githubusercontent.com/vanderschaarlab/synthcity/main/docs/logo.png)
+📊 Interpretability Suite | A collection of Machine Learning interpretability methods - the methods aim to provide an insight into why a model has made a given prediction. | [interpretability](https://github.com/vanderschaarlab/interpretability) | ---
+🏥 AutoPrognosis 2.0 | AutoPrognosis 2.0 is a framework that leverages the power of AutoML for tabular data in a flexible and interpretable way. | [autoprognosis](https://github.com/vanderschaarlab/autoprognosis) | [Citation](https://github.com/vanderschaarlab/autoprognosis#citing)
+
+
+
+## Research by topic
 
 ### AutoML
 Paper | Code | Journal/Conference
@@ -175,3 +190,7 @@ Paper | Code | Journal/Conference
 [Conditional Independence Testing using Generative Adversarial Networks](https://arxiv.org/abs/1907.04068)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/gcit) | NeurIPS 2019
 [Attentive State-Space Modeling of Disease Progression](https://papers.nips.cc/paper/2019/hash/1d0932d7f57ce74d9d9931a2c6db8a06-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/attentivess) | NeurIPS 2019
 [Bayesian Inference of Individualized Treatment Effects using Multi-task Gaussian Processes](https://proceedings.neurips.cc/paper/2017/hash/6a508a60aa3bf9510ea6acb021c94b48-Abstract.html)  | [Code](https://github.com/vanderschaarlab/mlforhealthlabpub/tree/main/alg/causal_multitask_gaussian_processes_ite) | NIPS 2017
+
+### Older work
+
+For the monorepo with older research works, see https://github.com/vanderschaarlab/mlforhealthlabpub.
