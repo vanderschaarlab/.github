@@ -76,6 +76,7 @@ Paper | Code | Journal/Conference
 
 Paper | Code | Journal/Conference
 --- | --- | ---
+[Deep Generative Symbolic Regression](https://openreview.net/forum?id=o7koEEMA1bR)  | [Code](https://github.com/vanderschaarlab/DeepGenerativeSymbolicRegression) | ICLR 2023
 [Concept Activation Regions: A Generalized Framework For Concept-Based Explanations](https://arxiv.org/abs/2209.11222)  | [Code](https://github.com/vanderschaarlab/CARs) | NeurIPS 2022
 [Benchmarking Heterogeneous Treatment Effect Models through the Lens of Interpretability](https://arxiv.org/abs/2206.08363) | [Code](https://github.com/vanderschaarlab/ITErpretability) | NeurIPS 2022
 [Label-Free Explainability for Unsupervised Models](https://arxiv.org/abs/2203.01928)  | [Code](https://github.com/vanderschaarlab/Label-Free-XAI) | ICML 2022
