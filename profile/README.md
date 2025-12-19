@@ -6,6 +6,7 @@
 
 Name | About | Repo | Cite
 ---- | ----- | ---- | ----
+<img src="https://raw.githubusercontent.com/vanderschaarlab/climb/refs/heads/main/docs/assets/climb-logo-no-text.png" height=15> CliMB (& CliMB-DC) | An AI-powered, data-centric co-pilot that helps clinician scientists turn messy real-world clinical data into predictive models via guided, customisable data processing and modeling pipelines. | [climb](https://github.com/vanderschaarlab/climb) | [Citation](https://arxiv.org/abs/2501.10321)
 <img src="https://raw.githubusercontent.com/vanderschaarlab/temporai/main/docs/assets/TemporAI_Logo_Icon.png" height=15> TemporAI | A Machine Learning-centric time-series library for medicine supporting tasks like: time-to-event (survival) analysis, treatment effects, and prediction. | [temporai](https://github.com/vanderschaarlab/temporai) | [Citation](https://github.com/vanderschaarlab/temporai/blob/main/CITATION.cff)
 <img src="https://raw.githubusercontent.com/vanderschaarlab/synthcity/main/docs/logo.png" height=15> SynthCity | SynthCity is a powerful library for generating and evaluating synthetic data for privacy, fairness and data augmentation. | [synthcity](https://github.com/vanderschaarlab/synthcity) | [Citation](https://raw.githubusercontent.com/vanderschaarlab/synthcity/main/docs/logo.png)
 📊 Interpretability Suite | A collection of Machine Learning interpretability methods - the methods aim to provide an insight into why a model has made a given prediction. | [interpretability](https://github.com/vanderschaarlab/interpretability) | ---
